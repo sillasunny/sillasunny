@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Silla Sunny! 👋
 
-<!--
-**sillasunny/sillasunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Scientist | Data Analyst
 
-Here are some ideas to get you started:
+🎓 BCA Graduate | Data Science Intern at SMEC Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- Interested in Data Science and Data Analytics.
+- Enjoy working with data and finding meaningful insights.
+- Practising Python, SQL and data analysis.
+- Building practical projects to solve real-world problems.
+
+## 🛠️ Technical Skills
+
+- **Programming:** Python, SQL, Java
+- **Data Analysis:** Pandas, NumPy, MS Excel
+- **Database:** MySQL
+- **Tools:** VS Code, Jupyter Notebook
+
+## 📂 Projects
+
+- **DataGuard:** Intelligent Data Entry Error Detection and Data Quality Analyzer
+- **Clinical Appointment System:** PHP and MySQL-based application
+- **Secure Evaluation of University Exams:** Cryptography-based academic project
+
+## 🎯 Currently Learning
+
+- Machine Learning
+- Data Science
+- Data Analytics
+
+## 🤝 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/silla-sunny-9a0039352/)
+- [GitHub](https://github.com/sillasunny)
