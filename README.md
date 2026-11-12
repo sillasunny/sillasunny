@@ -21,6 +21,8 @@
 ## 📂 Projects
 
 - **DataGuard:** Intelligent Data Entry Error Detection and Data Quality Analyzer
+  Technologies: Python, Pandas, NumPy, Tkinter, Matplotlib, OpenPyXL.
+  [View Project](https://github.com/sillasunny/DataGuard)
 - **Clinical Appointment System:** PHP and MySQL-based application
 - **Secure Evaluation of University Exams:** Cryptography-based academic project
 
